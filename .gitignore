@@ -1,0 +1,7 @@
+.Rproj
+.RData
+.Rhistory
+
+data/
+PA2_template_cache/
+PA2_template_files/
